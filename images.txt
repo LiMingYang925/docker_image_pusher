@@ -1,4 +1,4 @@
-portainer/portainer
-
-
+tutum/influxdb:1.8.10
+google/cadvisor:latest
+grafana/grafana:latest
 
